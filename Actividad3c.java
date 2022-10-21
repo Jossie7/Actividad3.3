@@ -23,8 +23,6 @@ public class Actividad3c{
         System.out.printf("\"%s \\ %s \\ %s\"\n", x, y,z);
         //Imprimimos 3/2= 1.5
         System.out.printf("%d / %d = %.1f" , a, b,c);
-        //dfjnijbngnfgkb
-
-
+        
     } 
 }
